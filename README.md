@@ -1,6 +1,6 @@
 # vtun
 
-A simple VPN written in Go.
+~A simple VPN written in Go.~
 
 [EN](https://github.com/net-byte/vtun/blob/master/README.md) | [中文](https://github.com/net-byte/vtun/blob/master/README_CN.md)
 
